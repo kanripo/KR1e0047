@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋集義
-#+DATE: 2015-09-23 09:39:46
-#+PROPERTY: JUAN 54
+#+DATE: 2015-08-24 22:14:19.926002
+#+PROPERTY: ID KR1e0047
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 書後
 <pb:KR1e0047_WYG_054-1a>¶
 書後¶
 六經皆聖人之書也而孔子之門人曰子所雅言詩書¶
@@ -26,4 +28,3 @@
 而不能精周卿與伯勇甫書使不逺數百里來叩一言¶
 其亦謂其皆自孔氏之門也歟因附一言於諸公之後¶
 嘉定十四年閏臘之八日¶
-

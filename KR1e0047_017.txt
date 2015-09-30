@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋集義
-#+DATE: 2015-09-23 09:39:46
-#+PROPERTY: JUAN 17
+#+DATE: 2015-08-24 22:14:19.214657
+#+PROPERTY: ID KR1e0047
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十四
 <pb:KR1e0047_WYG_017-1a>¶
 欽定四庫全書¶
 　春秋集義卷十四¶
@@ -380,4 +382,3 @@
 　¶
 　¶
 　春秋集義卷十四¶
-

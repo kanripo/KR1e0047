@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋集義
-#+DATE: 2015-09-23 09:39:46
-#+PROPERTY: JUAN 37
+#+DATE: 2015-08-24 22:14:19.578554
+#+PROPERTY: ID KR1e0047
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十四
 <pb:KR1e0047_WYG_037-1a>¶
 欽定四庫全書¶
 　春秋集義卷三十四¶
@@ -362,4 +364,3 @@
 　矣比事以觀則見當國者有無君之心此春秋所以¶
 　作不可不察也¶
 　春秋集義卷三十四¶
-

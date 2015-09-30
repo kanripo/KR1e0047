@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋集義
-#+DATE: 2015-09-23 09:39:46
-#+PROPERTY: JUAN 42
+#+DATE: 2015-08-24 22:14:19.676010
+#+PROPERTY: ID KR1e0047
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十九
 <pb:KR1e0047_WYG_042-1a>¶
 欽定四庫全書¶
 　春秋集義卷三十九¶
@@ -398,4 +400,3 @@
 　氏與周禮源流體統相接¶
 　¶
 　春秋集義卷三十九¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋集義
-#+DATE: 2015-09-23 09:39:46
-#+PROPERTY: JUAN 29
+#+DATE: 2015-08-24 22:14:19.424612
+#+PROPERTY: ID KR1e0047
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十六
 <pb:KR1e0047_WYG_029-1a>¶
 欽定四庫全書¶
 　春秋集義卷二十六¶
@@ -308,4 +310,3 @@
 　呂祖謙曰襄仲是莊公子文公叔此是至親者所以¶
 　委之¶
 　春秋集義卷二十六¶
-

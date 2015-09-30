@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋集義
-#+DATE: 2015-09-23 09:39:46
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:14:18.893897
+#+PROPERTY: ID KR1e0047
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 綱領卷上
 <pb:KR1e0047_WYG_001-1a>¶
 欽定四庫全書¶
 　春秋集義綱領卷上¶
@@ -470,4 +472,3 @@
 類相近似乎¶
 　¶
 　春秋集義綱領卷上¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋集義
-#+DATE: 2015-09-23 09:39:46
-#+PROPERTY: JUAN 19
+#+DATE: 2015-08-24 22:14:19.253312
+#+PROPERTY: ID KR1e0047
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR1e0047_WYG_019-1a>¶
 欽定四庫全書¶
 　春秋集義卷十六¶
@@ -470,4 +472,3 @@
 　夏之淪胥正不知伊于胡底孔子所以于桓之覇多¶
 　與詞也豈獨漢陽諸姬盡於强楚哉¶
 　春秋集義卷十六¶
-
